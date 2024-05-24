@@ -1,5 +1,5 @@
-Usage: ./check_certificates.sh -f <file> [-p <password>]
-Supported file types: .pfx, .pem, .csr, .key
+Usage: `./check_certificates.sh -f <file> [-p <password>]`  
+Supported file types: `.pfx`, `.pem`, `.csr`, `.key`
 
 Following checks are implemented:
 - Weak algorithms:
